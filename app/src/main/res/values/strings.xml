@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">example-skeleton-android</string>
+    <string name="post_image">Post Image</string>
 </resources>
